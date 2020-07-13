@@ -1,0 +1,22 @@
+/* pages/breathmode/breathmode.wxss */
+page{background-color: #fff}
+#play_bg{
+  width:100%;
+  height: 100%; 
+  position: absolute;
+  left: 0;
+  bottom:0;
+  z-index:-999;
+}
+.play_icon{
+  opacity: 1;
+  background: #FFFFFF;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.11), 0 1px 6px 0 rgba(0,0,0,0.10);
+  background: rgba(46, 52, 66, 0.808);
+  width:7%;
+  position: absolute;
+  height: 4.2%; 
+  left: 7px;
+  bottom:262px;
+  z-index:-999;
+}

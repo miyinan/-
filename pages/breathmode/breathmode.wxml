@@ -1,0 +1,8 @@
+<!--pages/breathmode/breathmode.wxml-->
+<image src="https://i.ibb.co/prdsBjQ/breathmode.png" id="play_bg" mode="scaleToFill"/>
+
+<navigator url='pages/play/play?' target="self" hover-class="navigator-hover" > 
+
+<image src="https://i.ibb.co/51vR2PG/play.png" class="play_icon"/> 
+
+</navigator>

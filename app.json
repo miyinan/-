@@ -1,7 +1,9 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/breathmode/breathmode",
+    "pages/play/play"
   ],
   "window":{
     "backgroundTextStyle":"light",
